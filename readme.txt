@@ -2,4 +2,5 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 git push?
 git clone
-Creating a new branch is quick and simple! this is merge test2.
+Creating a new branch is quick and simple, second time.
+
