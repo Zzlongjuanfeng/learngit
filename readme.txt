@@ -4,4 +4,5 @@ git push?
 git clone
 Creating a new branch is quick and simple, second time.
 merge --no-ff
+merge --no-ff second.
 
